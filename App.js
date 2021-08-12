@@ -5,6 +5,7 @@ import SwitchNav from './Navigations/SwitchNavigation/SwitchNavigation';
 const App = () => {
   return (
     <>
+    {/* Done from github dev */}
       <SwitchNav />
     </>
   );
